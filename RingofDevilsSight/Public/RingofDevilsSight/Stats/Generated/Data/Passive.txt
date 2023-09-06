@@ -1,0 +1,7 @@
+new entry "MAG_ThePact"
+type "PassiveData"
+data "DisplayName" "hc75181cag8b47g405dg8dffgb3b55aed8949;1"
+data "Description" "hd5232fedg364eg4ba0gbb03gcd89c4db02fe;1"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsCritical()"
+data "StatsFunctor" "IF(SavingThrow(Ability.Wisdom, 17)):ApplyStatus(SELF, HIDEOUS_LAUGHTER, 100, 2);"

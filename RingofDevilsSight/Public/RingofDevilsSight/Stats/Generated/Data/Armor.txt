@@ -1,0 +1,8 @@
+new entry "MAG_Ring_of_DevilsSight"
+type "Armor"
+using "_Ring_Magic"
+data "RootTemplate" "0b945279-3a47-46ab-9e26-0a1965688e50"
+data "ValueUUID" "94356ef2-bb14-4595-88cf-86f544ef12eb"
+data "Rarity" "Rare"
+data "PassivesOnEquip" "DevilsSight;MAG_ThePact;"
+data "Unique" "1"
